@@ -1,0 +1,3 @@
+rviz notes
+
+when fixed frame is "odom" the robot moves, when fixed fram is "base_link" the environment moves
